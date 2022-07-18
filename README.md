@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artystekx
-- 👀 I’m interested in 
+- 👀 I’m interested idk.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 😇 I love coding plugins for minecraft
